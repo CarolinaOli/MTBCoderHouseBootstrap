@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background: url("../img/fondo.jpg") no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 20rem;
+}
+.navbar-brand{
+    color:white;
+}
+.nav-link{
+    color: white;
+} 
+.col{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.row{
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#rec{
+    color: white;
+    align-items:  center;
+    background:rgba(0,0,0,0.3);
+    padding:2rem;
+    border:1px solid rgba(0,0,0,0.1);
+}
+#rec button{
+    color: white;
+    text-decoration: none;
+}
+.card-footer{
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border-top: transparent;
+}
+#insc{
+    color: white;
+    align-items:  center;
+    background:rgba(0,0,0,0.3);
+    padding:2rem;
+    border:1px solid rgba(0,0,0,0.1);
+}
+#insc button{
+    color: white;
+    text-decoration: none;
+}
+#reg{
+    color: white;
+    align-items:  center;
+    background:rgba(0,0,0,0.3);
+    padding:2rem;
+    border:1px solid rgba(0,0,0,0.1);
+}
+#reg button{
+    color: white;
+    text-decoration: none;
+}
+/* ---------------CONTENIDO------------------- */
+.titulo{
+    text-align: center;
+    background:rgba(0,0,0,0.3);
+    padding:2rem;
+    border:1px solid rgba(0,0,0,0.1);
+}
+.titulo a{
+    text-decoration: none;
+    font-weight: bold; 
+    color: white;
+}
+.titulo p{
+    text-decoration: none;
+    font-weight: bold; 
+    color: white;
+}
+.text-center{
+    color: white;
+}
+.row h5{
+    color: white;
+    font-weight: bold;
+    padding-bottom: 2rem;
+}
+#experiencias{
+    color: white;
+    background:rgba(0,0,0,0.3);
+    padding:2rem;
+    border:1px solid rgba(0,0,0,0.1);
+}
+.footer-padre{
+    text-align: center;
+    background:rgba(0,0,0,0.3);
+    border:1px solid rgba(0,0,0,0.1);
+    height: 70px;
+    margin-top: 100px;
+    padding-top: 51px;
+    padding:2rem;
+}
