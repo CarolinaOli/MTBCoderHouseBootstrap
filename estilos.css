@@ -17,16 +17,14 @@
   background: rgba(0, 0, 0, 0.3);
   padding: 2rem;
   border: 1px solid rgba(0, 0, 0, 0.1); }
-
-.titulo a {
-  text-decoration: none;
-  font-weight: bold;
-  color: white; }
-
-.titulo p {
-  text-decoration: none;
-  font-weight: bold;
-  color: white; }
+  .titulo a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; }
+  .titulo p {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; }
 
 .text-center {
   color: white; }
@@ -54,10 +52,9 @@
   background: rgba(0, 0, 0, 0.3);
   padding: 2rem;
   border: 1px solid rgba(0, 0, 0, 0.1); }
-
-#rec button {
-  color: white;
-  text-decoration: none; }
+  #rec button {
+    color: white;
+    text-decoration: none; }
 
 .card-footer {
   color: white;
@@ -71,10 +68,9 @@
   background: rgba(0, 0, 0, 0.3);
   padding: 2rem;
   border: 1px solid rgba(0, 0, 0, 0.1); }
-
-#insc button {
-  color: white;
-  text-decoration: none; }
+  #insc button {
+    color: white;
+    text-decoration: none; }
 
 #reg {
   color: white;
@@ -82,10 +78,9 @@
   background: rgba(0, 0, 0, 0.3);
   padding: 2rem;
   border: 1px solid rgba(0, 0, 0, 0.1); }
-
-#reg button {
-  color: white;
-  text-decoration: none; }
+  #reg button {
+    color: white;
+    text-decoration: none; }
 
 /* ---------------CONTENIDO------------------- */
 .row h5 {

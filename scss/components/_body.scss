@@ -22,10 +22,10 @@
     background:$color_black;
     padding:2rem;
     border:1px solid $color_border;
-}
-#rec button{
+    & button{
     color: $color_principal;
     text-decoration: none;
+    }
 }
 .card-footer{
     color: $color_principal;
@@ -39,10 +39,10 @@
     background:$color_black;
     padding:2rem;
     border:1px solid $color_border;
-}
-#insc button{
+    & button{
     color: $color_principal;
     text-decoration: none;
+    }
 }
 #reg{
     color: $color_principal;
@@ -50,10 +50,10 @@
     background:$color_black;
     padding:2rem;
     border:1px solid $color_border;
-}
-#reg button{
+    & button{
     color: $color_principal;
     text-decoration: none;
+    }
 }
 /* ---------------CONTENIDO------------------- */
 .row h5{

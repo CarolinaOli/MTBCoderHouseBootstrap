@@ -12,17 +12,16 @@
     background:$color_black;
     padding:2rem;
     border:1px solid $color_border;
-}
-
-.titulo a{
+    & a{
     text-decoration: none;
     font-weight: bold; 
     color: $color_principal;
-}
-.titulo p{
+    }
+    & p{
     text-decoration: none;
     font-weight: bold; 
     color: $color_principal;
+    }
 }
 .text-center{
     color: $color_principal;
