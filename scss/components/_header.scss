@@ -1,0 +1,29 @@
+.header{
+    height: 20rem;
+}
+.navbar-brand{
+    color:$color_principal;
+}
+.nav-link{
+    color: $color_principal;
+} 
+.titulo{
+    text-align: center;
+    background:$color_black;
+    padding:2rem;
+    border:1px solid $color_border;
+}
+
+.titulo a{
+    text-decoration: none;
+    font-weight: bold; 
+    color: $color_principal;
+}
+.titulo p{
+    text-decoration: none;
+    font-weight: bold; 
+    color: $color_principal;
+}
+.text-center{
+    color: $color_principal;
+}

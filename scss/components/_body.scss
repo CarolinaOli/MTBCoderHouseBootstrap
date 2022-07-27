@@ -1,0 +1,69 @@
+.body{
+    background: url("../img/fondo.jpg") no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.col{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.row{
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#rec{
+    color: $color_principal;
+    align-items:  center;
+    background:$color_black;
+    padding:2rem;
+    border:1px solid $color_border;
+}
+#rec button{
+    color: $color_principal;
+    text-decoration: none;
+}
+.card-footer{
+    color: $color_principal;
+    text-decoration: none;
+    background-color: transparent;
+    border-top: transparent;
+}
+#insc{
+    color: $color_principal;
+    align-items:  center;
+    background:$color_black;
+    padding:2rem;
+    border:1px solid $color_border;
+}
+#insc button{
+    color: $color_principal;
+    text-decoration: none;
+}
+#reg{
+    color: $color_principal;
+    align-items:  center;
+    background:$color_black;
+    padding:2rem;
+    border:1px solid $color_border;
+}
+#reg button{
+    color: $color_principal;
+    text-decoration: none;
+}
+/* ---------------CONTENIDO------------------- */
+.row h5{
+    color: $color_principal;
+    font-weight: bold;
+    padding-bottom: 2rem;
+}
+#experiencias{
+    color: $color_principal;
+    background:$color_black;
+    padding:2rem;
+    border:1px solid $color_border;
+}

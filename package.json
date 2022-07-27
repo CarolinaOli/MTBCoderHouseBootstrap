@@ -1,0 +1,25 @@
+{
+  "name": "mtbcoderhousebootstrap",
+  "version": "1.0.0",
+  "description": "<h1>Este es un repositorio para el curso de coder house</h1>\r <p>Se trata de una página informativa de carreras mountain bike</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/style.scss estilos.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolinaOli/MTBCoderhouseBootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolinaOli/MTBCoderhouseBootstrap/issues"
+  },
+  "homepage": "https://github.com/CarolinaOli/MTBCoderhouseBootstrap#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
